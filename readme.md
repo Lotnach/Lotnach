@@ -15,7 +15,7 @@
 
 <!-- tools -->
 <h3>💻 Code and Tools 🛠</h3>
-<p align = "left">
+<p align = "center">
     <!-- python -->
     <a><img src="https://img.shields.io/badge/-Python-blue%3F?style=social&logo=python" width="140"></a>
     <!-- django -->
@@ -25,7 +25,7 @@
     <!-- MySql -->
     <a><img src="https://img.shields.io/badge/-MySQL-blue%3F?style=social&logo=MySql" width="140"></a>
     <!-- Visual Studio Code -->
-    <a><img src="https://img.shields.io/badge/-VSC-blue%3F?style=social&logo=visualstudiocode" width="100"></a>
+    <a><img src="https://img.shields.io/badge/-VSC-blue%3F?style=social&logo=visualstudiocode" width="115"></a>
 </p>
 
 <!-- contacto -->
